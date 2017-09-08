@@ -17,3 +17,8 @@ p {
 #connect img { 
 	width: 50px;
  }
+
+ section {
+ 	background-image: url('images/concrete-texture.png');
+
+ }
