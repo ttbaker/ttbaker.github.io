@@ -1,0 +1,15 @@
+body {
+	line-height: 200%;
+}
+
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+}
+
+body, h1 {
+	font: 'Encode Sans Condensed', sans-serif;
+	font-family: 'Encode Sans Condensed', sans-serif;
+	color: #798490
+}
